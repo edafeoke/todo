@@ -1,0 +1,502 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "schemas",
+        "description": "schemas",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "todo",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "all_todos",
+        "kind": 2,
+        "importPath": "server.routes.todo",
+        "description": "server.routes.todo",
+        "peekOfCode": "def all_todos(db: Session=Depends(get_db)):\n    todos = db.query(models.Todo).all()\n    return todos\n@router.get('/{id}', response_model=schemas.ShowTodo, status_code=status.HTTP_200_OK)\ndef get_todos(id, db: Session=Depends(get_db)):\n    todo = db.query(models.Todo).filter_by(id = id).first()\n    return todo\n@router.put('/{id}')\ndef update(\n    id: int,",
+        "detail": "server.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_todos",
+        "kind": 2,
+        "importPath": "server.routes.todo",
+        "description": "server.routes.todo",
+        "peekOfCode": "def get_todos(id, db: Session=Depends(get_db)):\n    todo = db.query(models.Todo).filter_by(id = id).first()\n    return todo\n@router.put('/{id}')\ndef update(\n    id: int,\n    request: schemas.Todo,\n    db: Session=Depends(get_db)\n):\n    update_data = request.model_dump()",
+        "detail": "server.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "server.routes.todo",
+        "description": "server.routes.todo",
+        "peekOfCode": "def update(\n    id: int,\n    request: schemas.Todo,\n    db: Session=Depends(get_db)\n):\n    update_data = request.model_dump()\n    # Filter out None values, if any\n    update_data = {k: v for k, v in update_data.items() if v is not ''}\n    update_data['updated_at'] = datetime.datetime.now()\n    db.query(models.Todo).filter(models.Todo.id == id).update(update_data)",
+        "detail": "server.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "server.routes.todo",
+        "description": "server.routes.todo",
+        "peekOfCode": "def delete(\n    id: int,\n    db: Session=Depends(get_db)):\n    db.query(models.Todo).filter_by(id = id).delete()\n    db.commit()\n    return {\"message\": \"Successfully deleted the todo with id {id}\"}\n@router.post('/')\ndef create_todo(\n    request: schemas.Todo,\n    db: Session=Depends(get_db),",
+        "detail": "server.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "create_todo",
+        "kind": 2,
+        "importPath": "server.routes.todo",
+        "description": "server.routes.todo",
+        "peekOfCode": "def create_todo(\n    request: schemas.Todo,\n    db: Session=Depends(get_db),\n    status_code=status.HTTP_201_CREATED):\n    new_todo = models.Todo(\n        title=request.title,\n        description=request.description,\n        is_completed=False)\n    todos = db.add(new_todo)\n    db.commit()",
+        "detail": "server.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "server.routes.todo",
+        "description": "server.routes.todo",
+        "peekOfCode": "router = APIRouter (\n    prefix='/todos',\n    tags=['todos'],\n    dependencies=[],\n    responses={404: {'description': 'not found'}})\n@router.get(\n    '/',\n    response_model=List[schemas.ShowTodo],\n    status_code=status.HTTP_200_OK\n    )",
+        "detail": "server.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "all_users",
+        "kind": 2,
+        "importPath": "server.routes.user",
+        "description": "server.routes.user",
+        "peekOfCode": "def all_users(db: Session=Depends(get_db)):\n    users = db.query(models.User).all()\n    return users\n@router.get('/{id}', response_model=schemas.User, status_code=status.HTTP_200_OK)\ndef read(id, db: Session=Depends(get_db)):\n    user = db.query(models.User).filter_by(id = id).first()\n    return user\n@router.put('/{id}')\ndef update(\n    id: int,",
+        "detail": "server.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "kind": 2,
+        "importPath": "server.routes.user",
+        "description": "server.routes.user",
+        "peekOfCode": "def read(id, db: Session=Depends(get_db)):\n    user = db.query(models.User).filter_by(id = id).first()\n    return user\n@router.put('/{id}')\ndef update(\n    id: int,\n    request: schemas.User,\n    db: Session=Depends(get_db)\n):\n    # Extract the fields that are present in the request",
+        "detail": "server.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "server.routes.user",
+        "description": "server.routes.user",
+        "peekOfCode": "def update(\n    id: int,\n    request: schemas.User,\n    db: Session=Depends(get_db)\n):\n    # Extract the fields that are present in the request\n    update_data = request.model_dump()\n    # Filter out None values, if any\n    update_data = {k: v for k, v in update_data.items() if v is not ''}\n    update_data['updated_at'] = datetime.datetime.now()",
+        "detail": "server.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "server.routes.user",
+        "description": "server.routes.user",
+        "peekOfCode": "def delete(\n    id: int,\n    db: Session=Depends(get_db)):\n    db.query(models.User).filter_by(id = id).delete(synchronize_session=False)\n    db.commit()\n    return {\"message\": \"Successfully deleted the user with id {id}\"}\n@router.post('/')\ndef create(\n    request: schemas.User,\n    db: Session=Depends(get_db),",
+        "detail": "server.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "server.routes.user",
+        "description": "server.routes.user",
+        "peekOfCode": "def create(\n    request: schemas.User,\n    db: Session=Depends(get_db),\n    status_code=status.HTTP_201_CREATED):\n    new_user = models.User(\n        name=request.name,\n        email=request.email,\n        password=request.password,\n        )\n    db.add(new_user)",
+        "detail": "server.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "server.routes.user",
+        "description": "server.routes.user",
+        "peekOfCode": "router = APIRouter (\n    prefix='/user',\n    tags=['users'],\n    dependencies=[],\n    responses={404: {'description': 'not found'}})\n@router.get(\n    '/',\n    response_model=List[schemas.User],\n    status_code=status.HTTP_200_OK\n    )",
+        "detail": "server.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server.app",
+        "description": "server.app",
+        "peekOfCode": "app = FastAPI()\nmodels.Base.metadata.create_all(bind=engine)\napp.include_router(todo.router)\napp.include_router(user.router)\nif __name__ == \"__main__\":\n    uvicorn.run(app='app:app', host='localhost', port=3000, reload=True)",
+        "detail": "server.app",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "server.database",
+        "description": "server.database",
+        "peekOfCode": "def get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "server.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHELMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "server.database",
+        "description": "server.database",
+        "peekOfCode": "SQLALCHELMY_DATABASE_URI = 'sqlite:///./database.db'\nengine = create_engine(SQLALCHELMY_DATABASE_URI, connect_args={\"check_same_thread\": False})\nSession = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:",
+        "detail": "server.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "server.database",
+        "description": "server.database",
+        "peekOfCode": "engine = create_engine(SQLALCHELMY_DATABASE_URI, connect_args={\"check_same_thread\": False})\nSession = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "server.database",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "kind": 5,
+        "importPath": "server.database",
+        "description": "server.database",
+        "peekOfCode": "Session = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "server.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "server.database",
+        "description": "server.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "server.database",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "server.models",
+        "description": "server.models",
+        "peekOfCode": "class Todo(Base):\n    __tablename__ = 'todos'\n    id = Column(Integer, index=True, primary_key=True)\n    title = Column(String)\n    description = Column(String)\n    is_completed = Column(Boolean)\n    created_at = Column(DateTime, default=datetime.now())\n    updated_at = Column(DateTime, default=datetime.now())\nclass User(Base):\n    __tablename__ = 'users'",
+        "detail": "server.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "server.models",
+        "description": "server.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, index=True, primary_key=True)\n    name = Column(String)\n    email = Column(String, unique=True)\n    password = Column(String)\n    created_at = Column(DateTime, default=datetime.now())\n    updated_at = Column(DateTime, default=datetime.now())",
+        "detail": "server.models",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "server.schemas",
+        "description": "server.schemas",
+        "peekOfCode": "class Todo(BaseModel):\n    # id: int\n    title: str = ''\n    description: str = ''\n    is_completed: bool = False\n    class Config():\n        orm_mode = True\nclass ShowTodo(BaseModel):\n    id: int\n    title: str",
+        "detail": "server.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ShowTodo",
+        "kind": 6,
+        "importPath": "server.schemas",
+        "description": "server.schemas",
+        "peekOfCode": "class ShowTodo(BaseModel):\n    id: int\n    title: str\n    description: str\n    is_completed: bool\n    class Config():\n        orm_mode = True\nclass UpdateTodo(BaseModel):\n    title: Optional[str]\n    description: Optional[str]",
+        "detail": "server.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTodo",
+        "kind": 6,
+        "importPath": "server.schemas",
+        "description": "server.schemas",
+        "peekOfCode": "class UpdateTodo(BaseModel):\n    title: Optional[str]\n    description: Optional[str]\n    is_completed: Optional[bool]\n    class Config():\n        orm_mode = True\nclass User(BaseModel):\n    email: str\n    password: str\n    name: str",
+        "detail": "server.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "server.schemas",
+        "description": "server.schemas",
+        "peekOfCode": "class User(BaseModel):\n    email: str\n    password: str\n    name: str\n    class Config():\n        orm_mode = True",
+        "detail": "server.schemas",
+        "documentation": {}
+    }
+]

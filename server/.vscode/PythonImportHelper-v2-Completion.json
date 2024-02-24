@@ -1,0 +1,864 @@
+[
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Hashing",
+        "importPath": "security.hash",
+        "description": "security.hash",
+        "isExtraImport": true,
+        "detail": "security.hash",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "schemas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "schemas",
+        "description": "schemas",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "isExtraImport": true,
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "isExtraImport": true,
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "isExtraImport": true,
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "isExtraImport": true,
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "isExtraImport": true,
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "isExtraImport": true,
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "isExtraImport": true,
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "isExtraImport": true,
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "isExtraImport": true,
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "isExtraImport": true,
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "routes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "routes",
+        "description": "routes",
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "todo",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "kind": 2,
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "peekOfCode": "def all(db):\n    todos = db.query(models.Todo).all()\n    return todos\ndef read(id, db):\n    todo = db.query(models.Todo).filter_by(id = id).first()\n    return todo\ndef update(id, request, db):\n    update_data = request.model_dump()\n    # Filter out None values, if any\n    update_data = {k: v for k, v in update_data.items() if v is not ''}",
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "kind": 2,
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "peekOfCode": "def read(id, db):\n    todo = db.query(models.Todo).filter_by(id = id).first()\n    return todo\ndef update(id, request, db):\n    update_data = request.model_dump()\n    # Filter out None values, if any\n    update_data = {k: v for k, v in update_data.items() if v is not ''}\n    update_data['updated_at'] = datetime.datetime.now()\n    db.query(models.Todo).filter(models.Todo.id == id).update(update_data)\n    # Commit the changes to the database",
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "peekOfCode": "def update(id, request, db):\n    update_data = request.model_dump()\n    # Filter out None values, if any\n    update_data = {k: v for k, v in update_data.items() if v is not ''}\n    update_data['updated_at'] = datetime.datetime.now()\n    db.query(models.Todo).filter(models.Todo.id == id).update(update_data)\n    # Commit the changes to the database\n    db.commit()\n    # Return a success message\n    return {'message': 'Updated Successfully'}",
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "peekOfCode": "def delete(id, db):\n    db.query(models.Todo).filter_by(id = id).delete()\n    db.commit()\n    return {\"message\": \"Successfully deleted the todo with id {id}\"}\ndef create(request, db):\n    '''Create a new todo'''\n    new_todo = models.Todo(\n        title=request.title,\n        description=request.description,\n        is_completed=False,",
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "controllers.todo",
+        "description": "controllers.todo",
+        "peekOfCode": "def create(request, db):\n    '''Create a new todo'''\n    new_todo = models.Todo(\n        title=request.title,\n        description=request.description,\n        is_completed=False,\n        user_id=request.user_id\n        )\n    todos = db.add(new_todo)\n    db.commit()",
+        "detail": "controllers.todo",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "peekOfCode": "def create(request, db):\n    new_user = models.User(\n        name=request.name,\n        email=request.email,\n        password=Hashing.hash_password(password=request.password),\n        )\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)\n    return new_user",
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "peekOfCode": "def update(id, request, db):\n    # Extract the fields that are present in the request\n    update_data = request.model_dump()\n    # Filter out None values, if any\n    update_data = {k: v for k, v in update_data.items() if v is not ''}\n    update_data['updated_at'] = datetime.now()\n    if update_data['password'] != '':\n        update_data['password'] = hash_password(update_data['password'])\n    # Update the fields with the provided data\n    db.query(models.User).filter(models.User.id == id).update(update_data)",
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "peekOfCode": "def delete(id: int,db):\n    db.query(models.User).filter_by(id = id).delete(synchronize_session=False)\n    db.commit()\n    return {\"message\": \"Successfully deleted the user with id {id}\"}\ndef all(db):\n    users = db.query(models.User).all()\n    return users\ndef read(id, db):\n    user = db.query(models.User).filter_by(id = id).first()\n    return user",
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "all",
+        "kind": 2,
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "peekOfCode": "def all(db):\n    users = db.query(models.User).all()\n    return users\ndef read(id, db):\n    user = db.query(models.User).filter_by(id = id).first()\n    return user",
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "kind": 2,
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "peekOfCode": "def read(id, db):\n    user = db.query(models.User).filter_by(id = id).first()\n    return user",
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 5,
+        "importPath": "controllers.user",
+        "description": "controllers.user",
+        "peekOfCode": "hash_password = Hashing().hash_password\ndef create(request, db):\n    new_user = models.User(\n        name=request.name,\n        email=request.email,\n        password=Hashing.hash_password(password=request.password),\n        )\n    db.add(new_user)\n    db.commit()\n    db.refresh(new_user)",
+        "detail": "controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "routes.auth",
+        "description": "routes.auth",
+        "peekOfCode": "def login(request: schemas.Login, db: Session= Depends(get_db)):\n    user = db.query(models.User).filter(models.User.email == request.username)\n    if not user:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='No user with the specified email address!')\n    else:\n        return user",
+        "detail": "routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routes.auth",
+        "description": "routes.auth",
+        "peekOfCode": "router = APIRouter (\n    prefix='/auth',\n    tags=['auth'],\n    dependencies=[],\n    responses={404: {'description': 'not found'}})\n@router.post('/login')\ndef login(request: schemas.Login, db: Session= Depends(get_db)):\n    user = db.query(models.User).filter(models.User.email == request.username)\n    if not user:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail='No user with the specified email address!')",
+        "detail": "routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "all_todo",
+        "kind": 2,
+        "importPath": "routes.todo",
+        "description": "routes.todo",
+        "peekOfCode": "def all_todo(db: Session=Depends(get_db)):\n    return all(db)\n@router.get('/{id}', response_model=schemas.ShowTodo, status_code=status.HTTP_200_OK)\ndef get_todos(id, db: Session=Depends(get_db)):\n    return read(id, db)\n@router.put('/{id}')\ndef update_todo(id: int, request: schemas.Todo, db: Session=Depends(get_db)):\n    return update(id, request, db)\n@router.delete('/{id}', status_code=status.HTTP_200_OK)\ndef delete_todo(id: int, db: Session=Depends(get_db)):",
+        "detail": "routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_todos",
+        "kind": 2,
+        "importPath": "routes.todo",
+        "description": "routes.todo",
+        "peekOfCode": "def get_todos(id, db: Session=Depends(get_db)):\n    return read(id, db)\n@router.put('/{id}')\ndef update_todo(id: int, request: schemas.Todo, db: Session=Depends(get_db)):\n    return update(id, request, db)\n@router.delete('/{id}', status_code=status.HTTP_200_OK)\ndef delete_todo(id: int, db: Session=Depends(get_db)):\n    return delete(id, db)\n@router.post('/', status_code=status.HTTP_201_CREATED)\ndef create_todo(request: schemas.Todo, db: Session=Depends(get_db)):",
+        "detail": "routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_todo",
+        "kind": 2,
+        "importPath": "routes.todo",
+        "description": "routes.todo",
+        "peekOfCode": "def update_todo(id: int, request: schemas.Todo, db: Session=Depends(get_db)):\n    return update(id, request, db)\n@router.delete('/{id}', status_code=status.HTTP_200_OK)\ndef delete_todo(id: int, db: Session=Depends(get_db)):\n    return delete(id, db)\n@router.post('/', status_code=status.HTTP_201_CREATED)\ndef create_todo(request: schemas.Todo, db: Session=Depends(get_db)):\n    return create(request, db)",
+        "detail": "routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_todo",
+        "kind": 2,
+        "importPath": "routes.todo",
+        "description": "routes.todo",
+        "peekOfCode": "def delete_todo(id: int, db: Session=Depends(get_db)):\n    return delete(id, db)\n@router.post('/', status_code=status.HTTP_201_CREATED)\ndef create_todo(request: schemas.Todo, db: Session=Depends(get_db)):\n    return create(request, db)",
+        "detail": "routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "create_todo",
+        "kind": 2,
+        "importPath": "routes.todo",
+        "description": "routes.todo",
+        "peekOfCode": "def create_todo(request: schemas.Todo, db: Session=Depends(get_db)):\n    return create(request, db)",
+        "detail": "routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routes.todo",
+        "description": "routes.todo",
+        "peekOfCode": "router = APIRouter (\n    prefix='/todos',\n    tags=['todos'],\n    dependencies=[],\n    responses={404: {'description': 'not found'}})\n@router.get('/', response_model=List[schemas.ShowTodo], status_code=status.HTTP_200_OK)\ndef all_todo(db: Session=Depends(get_db)):\n    return all(db)\n@router.get('/{id}', response_model=schemas.ShowTodo, status_code=status.HTTP_200_OK)\ndef get_todos(id, db: Session=Depends(get_db)):",
+        "detail": "routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "all_users",
+        "kind": 2,
+        "importPath": "routes.user",
+        "description": "routes.user",
+        "peekOfCode": "def all_users(db: Session=Depends(get_db)):\n    return all(db)\n@router.get('/{id}', response_model=schemas.ShowUser, status_code=status.HTTP_200_OK)\ndef get_user(id, db: Session=Depends(get_db)):\n    return read(id, db)\n@router.put('/{id}')\ndef update_user(id: int, request: schemas.User, db: Session=Depends(get_db)):\n    return update(id, request, db)\n@router.delete('/{id}', status_code=status.HTTP_200_OK)\ndef delete_user(id: int, db: Session=Depends(get_db)):",
+        "detail": "routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "routes.user",
+        "description": "routes.user",
+        "peekOfCode": "def get_user(id, db: Session=Depends(get_db)):\n    return read(id, db)\n@router.put('/{id}')\ndef update_user(id: int, request: schemas.User, db: Session=Depends(get_db)):\n    return update(id, request, db)\n@router.delete('/{id}', status_code=status.HTTP_200_OK)\ndef delete_user(id: int, db: Session=Depends(get_db)):\n    return delete(id, db)\n@router.post('/', response_model=schemas.ShowUser, status_code=status.HTTP_201_CREATED)\ndef create_user(request: schemas.User, db: Session=Depends(get_db)):",
+        "detail": "routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "routes.user",
+        "description": "routes.user",
+        "peekOfCode": "def update_user(id: int, request: schemas.User, db: Session=Depends(get_db)):\n    return update(id, request, db)\n@router.delete('/{id}', status_code=status.HTTP_200_OK)\ndef delete_user(id: int, db: Session=Depends(get_db)):\n    return delete(id, db)\n@router.post('/', response_model=schemas.ShowUser, status_code=status.HTTP_201_CREATED)\ndef create_user(request: schemas.User, db: Session=Depends(get_db)):\n    return create(request, db)",
+        "detail": "routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "routes.user",
+        "description": "routes.user",
+        "peekOfCode": "def delete_user(id: int, db: Session=Depends(get_db)):\n    return delete(id, db)\n@router.post('/', response_model=schemas.ShowUser, status_code=status.HTTP_201_CREATED)\ndef create_user(request: schemas.User, db: Session=Depends(get_db)):\n    return create(request, db)",
+        "detail": "routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "routes.user",
+        "description": "routes.user",
+        "peekOfCode": "def create_user(request: schemas.User, db: Session=Depends(get_db)):\n    return create(request, db)",
+        "detail": "routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routes.user",
+        "description": "routes.user",
+        "peekOfCode": "router = APIRouter (\n    prefix='/user',\n    tags=['users'],\n    dependencies=[],\n    responses={404: {'description': 'not found'}})\n@router.get(\n    '/',\n    response_model=List[schemas.ShowUser],\n    status_code=status.HTTP_200_OK,\n    )",
+        "detail": "routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "Hashing",
+        "kind": 6,
+        "importPath": "security.hash",
+        "description": "security.hash",
+        "peekOfCode": "class Hashing():\n    def hash_password(password: str):\n        '''A function that hashes a password'''\n        hashed_password = password_context.hash(password)\n        return hashed_password",
+        "detail": "security.hash",
+        "documentation": {}
+    },
+    {
+        "label": "password_context",
+        "kind": 5,
+        "importPath": "security.hash",
+        "description": "security.hash",
+        "peekOfCode": "password_context = CryptContext(schemes=['bcrypt'], deprecated='auto')\nclass Hashing():\n    def hash_password(password: str):\n        '''A function that hashes a password'''\n        hashed_password = password_context.hash(password)\n        return hashed_password",
+        "detail": "security.hash",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = FastAPI()\nmodels.Base.metadata.create_all(bind=engine)\napp.include_router(todo.router)\napp.include_router(user.router)\napp.include_router(auth.router)\nif __name__ == \"__main__\":\n    uvicorn.run(app='app:app', host='localhost', port=3000, reload=True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "def get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHELMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "SQLALCHELMY_DATABASE_URI = 'sqlite:///./database.db'\nengine = create_engine(SQLALCHELMY_DATABASE_URI, connect_args={\"check_same_thread\": False})\nSession = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "engine = create_engine(SQLALCHELMY_DATABASE_URI, connect_args={\"check_same_thread\": False})\nSession = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "Session = sessionmaker(bind=engine, autoflush=False, autocommit=False)\nBase = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    '''Get the database instance from the local session'''\n    db = Session()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class Todo(Base):\n    __tablename__ = 'todos'\n    id = Column(Integer, index=True, primary_key=True)\n    title = Column(String)\n    description = Column(String)\n    is_completed = Column(Boolean)\n    created_at = Column(DateTime, default=datetime.now())\n    updated_at = Column(DateTime, default=datetime.now())\n    user_id = Column(Integer, ForeignKey('users.id'))\n    user = relationship('User', back_populates='todos')",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = 'users'\n    id = Column(Integer, index=True, primary_key=True)\n    name = Column(String)\n    email = Column(String, unique=True)\n    password = Column(String)\n    created_at = Column(DateTime, default=datetime.now())\n    updated_at = Column(DateTime, default=datetime.now())\n    todos = relationship('Todo', back_populates='user')",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class Todo(BaseModel):\n    # id: int\n    title: str = ''\n    description: str = ''\n    is_completed: bool = False\n    user_id: int\n    class Config():\n        orm_mode = True\nclass UpdateTodo(BaseModel):\n    title: Optional[str]",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateTodo",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class UpdateTodo(BaseModel):\n    title: Optional[str]\n    description: Optional[str]\n    is_completed: Optional[bool]\n    class Config():\n        orm_mode = True\nclass User(BaseModel):\n    email: str\n    password: str\n    name: str",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class User(BaseModel):\n    email: str\n    password: str\n    name: str\n    class Config():\n        orm_mode = True\nclass ShowTodo(BaseModel):\n    id: int\n    title: str\n    description: str",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ShowTodo",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class ShowTodo(BaseModel):\n    id: int\n    title: str\n    description: str\n    is_completed: bool\n    class Config():\n        orm_mode = True\nclass ShowUser(BaseModel):\n    email: str\n    name: str",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ShowUser",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class ShowUser(BaseModel):\n    email: str\n    name: str\n    created_at: datetime\n    updated_at: datetime\n    todos: List[ShowTodo]\n    class Config():\n        orm_mode = True\nclass Login(BaseModel):\n    username: str",
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "kind": 6,
+        "importPath": "schemas",
+        "description": "schemas",
+        "peekOfCode": "class Login(BaseModel):\n    username: str\n    password: str",
+        "detail": "schemas",
+        "documentation": {}
+    }
+]

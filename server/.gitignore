@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment directory
+.env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Python bytecode
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# macOS
+.DS_Store
+
+# PyCharm files
+*.iml
+.idea/
